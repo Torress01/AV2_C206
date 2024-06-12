@@ -1,0 +1,15 @@
+++ Aluno ++
+vitor
+234
+software
+23.4
+++ Aluno ++
+vitor
+234
+software
+23.0
+++ Aluno ++
+vitor
+345
+telecomunicacoes
+10.0
